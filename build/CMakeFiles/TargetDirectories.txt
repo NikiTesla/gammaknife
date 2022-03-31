@@ -1,0 +1,3 @@
+/home/krechetov/software/BeamTechnologyLab/gammaknife_krechetov/build/CMakeFiles/rebuild_cache.dir
+/home/krechetov/software/BeamTechnologyLab/gammaknife_krechetov/build/CMakeFiles/edit_cache.dir
+/home/krechetov/software/BeamTechnologyLab/gammaknife_krechetov/build/CMakeFiles/GammaKnife.dir
